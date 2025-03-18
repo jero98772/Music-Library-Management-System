@@ -71,7 +71,11 @@ The application will be available at `http://localhost:3000`
 
 ## Screenshots
 
-![]()
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/1.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/2.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/3.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/4.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/5.png)
 
 ## API Documentation
 

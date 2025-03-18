@@ -6,6 +6,10 @@ A Clojure web application for managing musical scores (partitures) using Redis f
 
 <center>
 
+[Spanish](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
+
+[Deutsch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
+
 [Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
 
 </center>
@@ -121,11 +125,19 @@ GET /api/partiture/:id
 ```json
 {
   "id": "partiture:uuid1",
-  "title": "Moonlight Sonata",
+  "title": "Claro de Luna",
   "composer": "Beethoven",
-  "opus": "27/2",
-  "key": "C# minor",
-  "created-at": "2023-09-20"
+  "instrumenr": "piano",
+  "abc": "
+X:3
+T:Simple Song
+M:4/4
+L:1/8
+K:C
+[C]C2 [F]F2 [G]G2 [C]C2 |
+w: This is a sim-ple song, sing a-long with me.
+
+  ",
 }
 ```
 

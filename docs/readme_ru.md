@@ -120,12 +120,21 @@ GET /api/partiture/:id
 ```json
 {
   "id": "partiture:uuid1",
-  "title": "Лунная соната",
-  "composer": "Бетховен",
-  "opus": "27/2",
-  "key": "до-диез минор",
-  "created-at": "2023-09-20"
+  "title": "Claro de Luna",
+  "composer": "Beethoven",
+  "instrumenr": "piano",
+  "abc": "
+X:3
+T:Simple Song
+M:4/4
+L:1/8
+K:C
+[C]C2 [F]F2 [G]G2 [C]C2 |
+w: This is a sim-ple song, sing a-long with me.
+
+  ",
 }
+
 ```
 
 ### Обновить партитуру

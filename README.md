@@ -2,6 +2,14 @@
 
 A Clojure web application for managing musical scores (partitures) using Redis for storage. Provides RESTful API endpoints and a simple frontend interface.
 
+## Translations in:
+
+<center>
+
+[Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
+
+</center>
+
 ## Description
 
 **For Artists & Music Guardians:**
@@ -10,15 +18,6 @@ Imagine a place where your music leaps off the page and comes alive instantly—
 
 **Why Open Source? Because Music Belongs to Everyone.**  
 This project isn’t locked behind corporate gates or paywalls—it’s built by and for the people who live and breathe music. Open source means every line of code is a shared hymn, a collective effort to protect and celebrate creativity. Like a jam session where anyone can grab an instrument, developers, musicians, and dreamers worldwide can tweak, improve, and reshape this tool. Want a feature that helps transcribe handwritten scores? Add it. Dream of a way to tag compositions by mood or cultural roots? Build it. Transparency isn’t just a buzzword here—it’s a promise. No hidden agendas, just a community stitching technology and passion into something that outlives us all. Together, we’re not just archiving notes; we’re safeguarding the stories, struggles, and sparks that make music humanity’s universal language. Join us, and turn the act of preservation into an act of love.
-
-
-## Translations in:
-
-<center>
-[Spanish](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
-[Deutsch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
-[Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
-</center>
 
 ## Features
 
@@ -71,11 +70,10 @@ The application will be available at `http://localhost:3000`
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/1.png)
-![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/2.png)
-![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/3.png)
-![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/4.png)
-![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/5.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/screenshots/2.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/screenshots/3.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/screenshots/4.png)
+![](https://raw.githubusercontent.com/jero98772/Music-Library-Management-System/refs/heads/main/docs/screenshots/5.png)
 
 ## API Documentation
 

@@ -7,7 +7,12 @@ Redis в качестве хранилища. Предоставляет RESTful
 
 <center>
 
-[Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
+[Spanish](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
+
+[Deutsch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
+
+[English](https://github.com/jero98772/Music-Library-Management-System/blob/main/README.md)
+
 
 </center>
 
@@ -124,14 +129,13 @@ GET /api/partiture/:id
   "composer": "Beethoven",
   "instrumenr": "piano",
   "abc": "
-X:3
-T:Simple Song
-M:4/4
-L:1/8
-K:C
-[C]C2 [F]F2 [G]G2 [C]C2 |
-w: This is a sim-ple song, sing a-long with me.
-
+        X:3
+        T:Simple Song
+        M:4/4
+        L:1/8
+        K:C
+        [C]C2 [F]F2 [G]G2 [C]C2 |
+        w: This is a sim-ple song, sing a-long with me.
   ",
 }
 

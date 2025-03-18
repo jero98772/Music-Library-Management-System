@@ -1,5 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 # Musikbibliotheksverwaltungssystem (Übersetzung nicht überprüft)
 
 Eine Clojure-Webanwendung zur Verwaltung von Musikpartituren mit Redis als Speicher. Bietet RESTful API-Endpunkte und eine einfache Frontend-Oberfläche.
@@ -16,11 +14,12 @@ Dieses Projekt ist nicht hinter Corporate Walls oder Paywalls versteckt – es w
 
 <center>
 
-[Spanisch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
+[Español](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
 
-[Deutsch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
+[English](https://github.com/jero98772/Music-Library-Management-System/blob/main/README.md)
 
-[Russisch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
+[Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
+
 </center>
 
 ## Funktionen

@@ -1,8 +1,18 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 # Sistema de Gestión de Bibliotecas Musicales (traducción no verificada)
 
 Una aplicación web en Clojure para gestionar partituras musicales usando Redis como almacenamiento. Ofrece endpoints RESTful API y una interfaz frontend sencilla.
+
+## Traducciones disponibles:
+
+<center>
+
+[Русский](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
+
+[Deutsch](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
+
+[English](https://github.com/jero98772/Music-Library-Management-System/blob/main/README.md)
+
+</center>
 
 ## Descripción
 
@@ -11,17 +21,6 @@ Imagina un lugar donde tus partituras cobran vida al instante, sin descargas ni 
 
 **¿Por qué código abierto? Porque la música pertenece a todos.**  
 Este proyecto no está tras puertas corporativas o muros de pago: está construido por y para quienes viven la música. "Código abierto" significa que cada línea es un himno compartido, un esfuerzo colectivo para proteger la creatividad. Como una jam session donde cualquiera puede tomar un instrumento, desarrolladores, músicos y soñadores pueden ajustar, mejorar y remodelar esta herramienta. ¿Quieres una función para transcribir partituras manuscritas? Añádela. ¿Sueñas con etiquetar obras por estado de ánimo o raíces culturales? Constrúyelo. La transparencia no es solo una palabra de moda: es una promesa. Sin agendas ocultas, solo una comunidad uniendo tecnología y pasión para crear algo que nos sobreviva. Juntos, no solo archivamos notas: preservamos historias, luchas y chispas que hacen de la música el lenguaje universal de la humanidad. Únete y convierte la preservación en un acto de amor.
-
-## Traducciones disponibles:
-
-<center>
-
-[Español](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_es.md)
-
-[Alemán](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ge.md) 
-
-[Ruso](https://github.com/jero98772/Music-Library-Management-System/blob/main/docs/readme_ru.md)
-</center>
 
 ## Características
 
